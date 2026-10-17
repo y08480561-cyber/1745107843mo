@@ -1,0 +1,22 @@
+{
+  "name": "reqabat-admin-dashboard",
+  "version": "1.0.0",
+  "description": "سایت مدیریتی مستقل و حرفه‌ای برنامه اندرویدی رقابت کن، جایزه ببر",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static web application ready for deployment.'"
+  },
+  "keywords": [
+    "supabase",
+    "admin",
+    "dashboard",
+    "tailwind",
+    "iranian"
+  ],
+  "author": "Reqabat Team",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
